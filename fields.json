@@ -1,628 +1,668 @@
 {
- "slug": "dizzi",
- "brand": "Dizzi",
- "field_count": 147,
- "franchiseFee": 50000,
- "totalInvestmentMin": 94500,
- "totalInvestmentMax": 411000,
- "royaltyPercent": "4%",
- "adFee": "1%",
- "totalUnits": 0,
- "openLocations": 0,
- "corporateCity": "St Thomas",
- "corporateState": "VI",
- "corporateZip": "00802",
- "corporateAddress": "25-A Dronningens Gade, St Thomas, USVI 00802",
- "description": "Dizzi is an alcohol-infused dessert restaurant franchise offered by USVI Dizzibrands, LLC, a U.S. Virgin Islands company headquartered in St. Thomas. Its restaurants serve boozy desserts \u2014 ice cream, sorbets, pops, pies and gelatin shots with up to 19.25% ABV \u2014 under the 'Lickable Liquors' concept. Per the May 2023 FDD, the initial fee is $50,000, the Item 7 estimated investment totals $94,500 to $411,000, royalties are 4% of gross sales with a 1% brand fund, and franchisees receive an exclusive 1-mile territory. The FDD discloses no financial performance representations and no outlet list; the initial term is 10 years for a traditional restaurant (5 years for limited service).",
- "category": "Restaurant / Alcohol-Infused Desserts",
- "websiteUrl": "https://www.getdizzi.com/",
- "yearFounded": 2018,
- "fddYear": 2023,
- "territoryDescription": "Exclusive territory: 1-mile radius from the Franchised Location (FDD Item 12, p.20). Franchisee may sell to anyone from the Franchised Location or within the Dizzi-approved Delivery Area. No right to acquire additional franchises. Dizzi may establish other restaurants outside the Exclusive Area that may compete and can sell proprietary products anywhere. Item-20 outlet count: 0 disclosed (outlet section missing from FDD body).",
- "item12": "exclusive",
- "item20PinCount": 0,
- "hq_source": "fdd-item-1 (FDD Item 1, p.1)",
- "risk_score": 38,
- "pins": [
-  {
-   "city": "Charlotte Amalie",
-   "state": "VI",
-   "latitude": 18.3368505,
-   "longitude": -64.9622349,
-   "hq": true,
-   "pin_source": "FDD Item 1, p.1 \u2014 franchisor HQ address 25-A Dronningens Gade, St Thomas, USVI 00802; storefront at same address (Tripadvisor); geocoded city centroid (Charlotte Amalie, USVI)"
-  }
- ],
- "fields": {
-  "franchisor_legal_name": {
-   "value": "USVI Dizzibrands, LLC.",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "dba_name": {
-   "value": "Dizzi",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1 \u2014 franchisor referred to as \"Dizzi\""
-  },
-  "franchisor_entity_type": {
-   "value": "USVI limited liability company",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1 \u2014 \"a USVI Limited liability Corporation\""
-  },
-  "franchisor_formed_date": {
-   "value": "2022-02-08",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1 \u2014 formed February 8, 2022"
-  },
-  "corporate_address": {
-   "value": "25-A Dronningens Gade, St Thomas, USVI 00802",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "corporate_phone": {
-   "value": "(972) 951-8129",
-   "type": "absolute",
-   "item": "FDD cover page / FDD Item 1, p.1"
-  },
-  "corporate_city": {
-   "value": "St Thomas",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1 \u2014 FDD names only the island; storefront at same address is in Charlotte Amalie"
-  },
-  "corporate_state": {
-   "value": "VI",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1 \u2014 U.S. Virgin Islands (US territory; NOT a 50-state code \u2014 see named gap)"
-  },
-  "corporate_zip": {
-   "value": "00802",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "franchised_business": {
-   "value": "Dizzi Alcohol Infused Desserts Restaurants \u2014 'Lickable Liquors' themed restaurants serving boozy desserts",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "product_line": {
-   "value": "Alcohol-infused ice cream (up to 19.25% ABV), sorbets, pops, pies, brulee, gelatin shots (25% ABV)",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1 + brand site (getdizzi.com) product pages"
-  },
-  "operates_other_concepts": {
-   "value": "No \u2014 no affiliates offer franchises in any line of business or provide products/services to franchisees",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1"
-  },
-  "parent_predecessor_affiliates": {
-   "value": "None disclosed",
-   "type": "absolute",
-   "item": "FDD Item 1, p.1 \u2014 'Dizzi has no affiliates that offer franchises'"
-  },
-  "brand_founded_year": {
-   "value": 2018,
-   "type": "absolute",
-   "item": "non-FDD: brand site (dizzibrands.com/about) states 'Since 2018'; franchisor LLC formed 2022-02-08 per FDD Item 1"
-  },
-  "year_franchising_began": {
-   "value": "not disclosed in FDD",
-   "type": "absolute",
-   "item": "FDD Item 1 (p.1) states no franchise-offering start date \u2014 three-state: grep of fdd.txt for 'began offering'/'offering franchises' returned 0 hits"
-  },
-  "ceo_name": {
-   "value": "David Taylor",
-   "type": "absolute",
-   "item": "FDD Item 2, p.2"
-  },
-  "ceo_background": {
-   "value": "Highly Spirited Entrepreneur; 25+ years startup experience; developed 8 restaurant concepts; Texas Tech Finance BBA",
-   "type": "absolute",
-   "item": "FDD Item 2, p.2"
-  },
-  "lead_investor_1": {
-   "value": "Lori McColl \u2014 'Sugar Mama'; long-time investor",
-   "type": "absolute",
-   "item": "FDD Item 2, p.2"
-  },
-  "lead_investor_2": {
-   "value": "George Grubbs III \u2014 4th generation car dealer, angel investor",
-   "type": "absolute",
-   "item": "FDD Item 2, p.2"
-  },
-  "advisory_team": {
-   "value": "Marty Ellen (29-yr CFO), Diego Comparin (R&D/QA), Tom Benson (Zodiac Vodka founder), Ryan Nollen (supply chain)",
-   "type": "absolute",
-   "item": "FDD Item 2, p.2"
-  },
-  "litigation_disclosed": {
-   "value": "None",
-   "type": "absolute",
-   "item": "FDD Item 3, p.3 \u2014 'No litigation is required to be disclosed'"
-  },
-  "bankruptcy_disclosed": {
-   "value": "None",
-   "type": "absolute",
-   "item": "FDD Item 4, p.3 \u2014 'No bankruptcy filings or proceedings are required to be disclosed'"
-  },
-  "initial_franchise_fee": {
-   "value": 50000,
-   "type": "absolute",
-   "item": "FDD Item 5, p.3 \u2014 $50,000 for a Traditional franchise"
-  },
-  "franchise_fee_limited_service": {
-   "value": "not disclosed in FDD",
-   "type": "absolute",
-   "item": "FDD Item 5 (p.3) states only the Traditional $50,000 fee; no separate Limited Service initial fee stated \u2014 three-state"
-  },
-  "franchise_fee_refundable": {
-   "value": "Generally no \u2014 refund only if terminated before opening: Initial Fee less greater of $5,000 or Dizzi's expenses; $50,000 deduction if terminated for liquor-license denial due to criminal history/bankruptcy",
-   "type": "absolute",
-   "item": "FDD Item 5, p.3-4"
-  },
-  "royalty_terms": {
-   "value": "4% of Gross Revenues, paid weekly by Wednesday for the preceding week",
-   "type": "absolute",
-   "item": "FDD Item 6, p.5"
-  },
-  "royalty_min_limited_service": {
-   "value": "$6,000 per year minimum Continuing Fee for a Limited Service franchise",
-   "type": "absolute",
-   "item": "FDD Item 6, p.5 \u2014 note 3"
-  },
-  "brand_fund_terms": {
-   "value": "1% of Gross Revenues \u2014 Marketing and Promotion Fund administered and controlled by Dizzi",
-   "type": "absolute",
-   "item": "FDD Item 6, p.5"
-  },
-  "local_advertising_requirement": {
-   "value": "1.5% of Gross Revenues + 0.5% of Gross Revenues to the DMA Fund, each quarter",
-   "type": "absolute",
-   "item": "FDD Item 6, p.5"
-  },
-  "local_dma_group": {
-   "value": "If 2+ Dizzi Restaurants in a DMA, franchisee must join the Local DMA Marketing and Promotion Group; contributions determined by majority",
-   "type": "absolute",
-   "item": "FDD Item 6, p.6 \u2014 note 5"
-  },
-  "marketing_fund_loan": {
-   "value": "If the fund is insufficient, Dizzi may loan it amounts; unpaid balance accrues interest at a predetermined rate",
-   "type": "absolute",
-   "item": "FDD Item 6, p.5 \u2014 note 4"
-  },
-  "audit_fee": {
-   "value": "Amount incurred by Dizzi to audit your restaurant; if revenues understated by >1/2% or $1,000 in 12 months, annual audited statements required for 3 years",
-   "type": "absolute",
-   "item": "FDD Item 6, p.5-6"
-  },
-  "relocation_fee": {
-   "value": 5000,
-   "type": "absolute",
-   "item": "FDD Item 6, p.5"
-  },
-  "transfer_fee": {
-   "value": 12500,
-   "type": "absolute",
-   "item": "FDD Item 6, p.5 \u2014 includes training of transferee franchisee"
-  },
-  "interest_unpaid_fees": {
-   "value": "Lesser of 18% per annum or maximum legal rate",
-   "type": "absolute",
-   "item": "FDD Item 6, p.6"
-  },
-  "service_charge_late": {
-   "value": "$50 service charge for past-due Continuing/ Marketing fees",
-   "type": "absolute",
-   "item": "FDD Item 6, p.6"
-  },
-  "consulting_fee": {
-   "value": "$320 per day (then-current rate) plus representative's travel expenses",
-   "type": "absolute",
-   "item": "FDD Item 6, p.6"
-  },
-  "training_fee_new_employees": {
-   "value": "$100 per day plus expenses for training at a Dizzi-designated location",
-   "type": "absolute",
-   "item": "FDD Item 6, p.6"
-  },
-  "collection_costs": {
-   "value": "Actual attorneys' fees, deposition/expert/investigation costs incurred collecting unpaid fees",
-   "type": "absolute",
-   "item": "FDD Item 6, p.6"
-  },
-  "investment_min": {
-   "value": 94500,
-   "type": "absolute",
-   "item": "FDD Item 7, p.7 \u2014 Item 7 table total low"
-  },
-  "investment_max": {
-   "value": 411000,
-   "type": "absolute",
-   "item": "FDD Item 7, p.7 \u2014 Item 7 table total high"
-  },
-  "investment_cover_range": {
-   "value": "$75,000 to $334,000 (traditional franchise) \u2014 DISCREPANCY: cover figure differs from Item 7 table total ($94,500-$411,000); Item 7 table used as the audited range",
-   "type": "absolute",
-   "item": "FDD cover page vs FDD Item 7, p.7"
-  },
-  "leasehold_improvements": {
-   "value": "25,000 - 75,000",
-   "type": "absolute",
-   "item": "FDD Item 7, p.7"
-  },
-  "training_wages_travel": {
-   "value": "5,000 - 10,500",
-   "type": "absolute",
-   "item": "FDD Item 7, p.7 \u2014 wages, travel and living expenses during training"
-  },
-  "lease_3mo": {
-   "value": "6,000 - 22,000",
-   "type": "absolute",
-   "item": "FDD Item 7, p.7 \u2014 restaurant lease payments, 3 months"
-  },
-  "furniture_fixtures_equipment": {
-   "value": "25,000 - 150,000",
-   "type": "absolute",
-   "item": "FDD Item 7, p.7"
-  },
-  "architectural_engineering": {
-   "value": "3,000 - 15,000",
-   "type": "absolute",
-   "item": "FDD Item 7, p.7"
-  },
-  "sign_cost": {
-   "value": "5,000 - 25,000",
-   "type": "absolute",
-   "item": "FDD Item 7, p.7"
-  },
-  "employee_salaries_3mo": {
-   "value": "10,000 - 60,000",
-   "type": "absolute",
-   "item": "FDD Item 7, p.7"
-  },
-  "initial_food_beverage_inventory": {
-   "value": "5,000 - 10,000",
-   "type": "absolute",
-   "item": "FDD Item 7, p.7"
-  },
-  "liquor_license_costs": {
-   "value": "500 - 12,500",
-   "type": "absolute",
-   "item": "FDD Item 7, p.7"
-  },
-  "insurance_3mo": {
-   "value": "2,500 - 6,000",
-   "type": "absolute",
-   "item": "FDD Item 7, p.7"
-  },
-  "additional_funds_3mo": {
-   "value": "7,500 - 25,000",
-   "type": "absolute",
-   "item": "FDD Item 7, p.7"
-  },
-  "site_size_sqft": {
-   "value": "500 to 3,000 sq ft; typically tourist high-traffic zones, shopping centers or outdoor shopping malls",
-   "type": "absolute",
-   "item": "FDD Item 7, p.8 \u2014 note 5"
-  },
-  "buildout_notes": {
-   "value": "Free-standing building + land: $500,000-$1,500,000; storage-container build: $50,000-$100,000",
-   "type": "absolute",
-   "item": "FDD Item 7, p.8 \u2014 note 5"
-  },
-  "required_purchases": {
-   "value": "All ice cream powder blends, proprietary infusion blends, certain alcohol products, snow cone ingredients, fruit blends and sauces, t-shirts, hats, logo merchandise \u2014 only from Dizzi or a Dizzi-designated supplier",
-   "type": "absolute",
-   "item": "FDD Item 8, p.10"
-  },
-  "pos_system": {
-   "value": "Must purchase/lease Dizzi's approved POS System",
-   "type": "absolute",
-   "item": "FDD Item 8, p.10"
-  },
-  "financing_offered": {
-   "value": "Franchise Fee terms may be offered if agreed by all parties; NO financing for property/location; no guaranty of notes, leases or obligations",
-   "type": "absolute",
-   "item": "FDD Item 10, p.12"
-  },
-  "site_review": {
-   "value": "Dizzi reviews (not selects) the proposed site; no time limit, but restaurant must open within 170 days of signing or Dizzi may terminate",
-   "type": "absolute",
-   "item": "FDD Item 11, p.13"
-  },
-  "initial_training": {
-   "value": "Within 90-120 days of signing: classroom training at Dizzi offices in St Thomas, USVI + on-the-job training at an operational Dizzi Restaurant; taught by a Dizzi National Trainer (min 2 years retail restaurant experience)",
-   "type": "absolute",
-   "item": "FDD Item 11, p.13"
-  },
-  "training_attendees": {
-   "value": "Non-operating Owners, Operating Owner, Store Manager and Associate Manager",
-   "type": "absolute",
-   "item": "FDD Item 11, p.13"
-  },
-  "ongoing_training": {
-   "value": "Additional training provided if a new Operating Owner, Store Manager or Associate Manager is appointed during the term",
-   "type": "absolute",
-   "item": "FDD Item 11, p.14"
-  },
-  "time_to_open_days": {
-   "value": 170,
-   "type": "absolute",
-   "item": "FDD Item 11, p.13 \u2014 must open within 170 days after signing"
-  },
-  "territory_exclusive": {
-   "value": "Yes \u2014 Exclusive Territory equal to a 1-mile radius from the Franchised Location",
-   "type": "absolute",
-   "item": "FDD Item 12, p.20"
-  },
-  "territory_sales_scope": {
-   "value": "May sell to anyone from the Franchised Location or within the Dizzi-approved Delivery Area",
-   "type": "absolute",
-   "item": "FDD Item 12, p.20"
-  },
-  "territory_reserved_rights": {
-   "value": "Dizzi may establish other franchised or company-owned restaurants outside the Exclusive Area that may compete, and can sell proprietary products anywhere",
-   "type": "absolute",
-   "item": "FDD Item 12, p.20"
-  },
-  "territory_no_additional_rights": {
-   "value": "No right to acquire additional franchises",
-   "type": "absolute",
-   "item": "FDD Item 12, p.20"
-  },
-  "relocation_rules": {
-   "value": "May relocate only with Dizzi permission and within 1/2 mile of current location; must not compete with any other Dizzi Restaurant or licensed territory; $5,000 relocation fee",
-   "type": "absolute",
-   "item": "FDD Item 12, p.20"
-  },
-  "trademarks": {
-   "value": "Licensed to operate under the name 'Dizzi'; logos on the FDD cover page; marks registered on the USPTO principal register",
-   "type": "absolute",
-   "item": "FDD Item 13, p.21"
-  },
-  "owner_operator_required": {
-   "value": "No \u2014 not required to participate in operation; restaurant must be managed by a trained Store Manager and Associate Manager",
-   "type": "absolute",
-   "item": "FDD Item 15, p.22"
-  },
-  "guaranty": {
-   "value": "Non-individual franchisees must personally guarantee all obligations; Operating Owners and Non-operating Owners must attend training",
-   "type": "absolute",
-   "item": "FDD Item 15, p.22"
-  },
-  "confidentiality": {
-   "value": "Store Manager, Associate Manager and employees with access to the Operating/Kitchen/Recipe Manuals and menu must sign written confidentiality agreements",
-   "type": "absolute",
-   "item": "FDD Item 15, p.22"
-  },
-  "sell_restrictions": {
-   "value": "May sell only Dizzi-specified/approved products and services; Dizzi may set maximum prices; Limited Service franchise needs written approval before starting delivery",
-   "type": "absolute",
-   "item": "FDD Item 16, p.22"
-  },
-  "franchise_term_years": {
-   "value": 10,
-   "type": "absolute",
-   "item": "FDD Item 17, p.23 \u2014 10 years for a Traditional franchise"
-  },
-  "limited_service_term_years": {
-   "value": 5,
-   "type": "absolute",
-   "item": "FDD Item 17, p.23 \u2014 5 years for a Limited Service franchise"
-  },
-  "renewal_terms": {
-   "value": "Same as Dizzi's then-current standard Franchise Agreement (terms may differ from the original)",
-   "type": "absolute",
-   "item": "FDD Item 17, p.23"
-  },
-  "early_termination_triggers": {
-   "value": "Within 180 days of signing if: materially inaccurate info; no site within 180 days; no construction start within 365 days; not open by earlier of 120 days after signing or occupancy readiness; no liquor/food license obtained",
-   "type": "absolute",
-   "item": "FDD Item 5, p.4"
-  },
-  "post_term_noncompete": {
-   "value": "9 months; may not participate in any restaurant, fast food, ice cream, pasta or on-sale liquor business within 5 miles of the Franchised Location, any Dizzi Restaurant or any exclusive area",
-   "type": "absolute",
-   "item": "FDD Item 17, p.23"
-  },
-  "in_term_noncompete": {
-   "value": "May not participate in any restaurant, fast food, pizza, pasta or on-sale liquor business competing with a Dizzi Restaurant during the term",
-   "type": "absolute",
-   "item": "FDD Item 17, p.23"
-  },
-  "dispute_resolution": {
-   "value": "Non-binding mediation then arbitration in Dallas, Texas; litigation in Dallas County, Texas",
-   "type": "absolute",
-   "item": "FDD Item 17, p.23"
-  },
-  "governing_law": {
-   "value": "Laws of the territory/state in which the Dizzi Restaurant is located",
-   "type": "absolute",
-   "item": "FDD Item 17, p.23"
-  },
-  "franchisor_purchase_option": {
-   "value": "If the agreement terminates or expires, Dizzi may purchase the restaurant or business assets",
-   "type": "absolute",
-   "item": "FDD Item 17, p.23"
-  },
-  "transfer_conditions": {
-   "value": "Dizzi approval required (not unreasonably withheld); 30 days written notice; right of first refusal; all money owed paid; transferee meets standards and signs then-current agreement; transferee's team completes training",
-   "type": "absolute",
-   "item": "FDD Item 17, p.23"
-  },
-  "death_disability_transfer": {
-   "value": "If franchisee is an individual, agreement may transfer to anyone on death/disability without paying a transfer fee",
-   "type": "absolute",
-   "item": "FDD Item 17, p.23"
-  },
-  "public_figures": {
-   "value": "None \u2014 Dizzi does not use any public figure to promote its franchise",
-   "type": "absolute",
-   "item": "FDD Item 18, p.27"
-  },
-  "item19_fpr": {
-   "value": "NONE \u2014 Dizzi makes no representations about future or past financial performance of company-owned or franchised outlets",
-   "type": "absolute",
-   "item": "FDD Item 19, p.27"
-  },
-  "item20_outlets_section": {
-   "value": "MISSING \u2014 the FDD Table of Contents lists '20. OUTLETS AND FRANCHISEE INFORMATION ... 27' but the body section numbered 20 is 'FINANCIAL STATEMENTS'; no outlet list, no franchisee contact list is disclosed anywhere in the FDD",
-   "type": "absolute",
-   "item": "FDD TOC vs body (Item 20 = Financial Statements, p.30 of FDD pagination)"
-  },
-  "financial_statements": {
-   "value": "Available by request (not attached to the FDD)",
-   "type": "absolute",
-   "item": "FDD Item 20 (Financial Statements), p.30"
-  },
-  "contracts_exhibit": {
-   "value": "Franchise Agreement attached as Exhibit D; Limited Service addendum as Exhibit E; Franchisee Questionnaire as Exhibit F",
-   "type": "absolute",
-   "item": "FDD Item 22, p.30 / Exhibits TOC"
-  },
-  "receipts_exhibit": {
-   "value": "Receipts attached (State Agency Exhibit / Receipts)",
-   "type": "absolute",
-   "item": "FDD Item 23, p.30"
-  },
-  "fdd_issue_date": {
-   "value": "2023-05-27",
-   "type": "absolute",
-   "item": "FDD cover page \u2014 Issuance Date: May 27, 2023"
-  },
-  "limited_service_model": {
-   "value": "Limited Service franchise variant exists (Addendum: Limited Service Franchise, Exhibit E); minimum $6,000/year Continuing Fee; 5-year term; delivery requires written approval",
-   "type": "absolute",
-   "item": "FDD Exhibits TOC + Item 6 p.5 + Item 17 p.23"
-  },
-  "match_capital_min": {
-   "value": 94500,
-   "type": "matching",
-   "item": "MATCHING \u2014 method: Item 7 low-end investment total"
-  },
-  "match_capital_target": {
-   "value": 250000,
-   "type": "matching",
-   "item": "MATCHING \u2014 method: midpoint of Item 7 range ($94,500\u2013$411,000) \u2248 $252,750; labeled estimate"
-  },
-  "match_experience": {
-   "value": "Restaurant/operations background helpful; CEO notes 20 years management restaurant experience behind Item 7 estimates",
-   "type": "matching",
-   "item": "MATCHING \u2014 method: FDD Item 7 note 1, p.8"
-  },
-  "match_operational": {
-   "value": "Owner-operator optional; trained Store Manager + Associate Manager required; all owners attend training",
-   "type": "matching",
-   "item": "MATCHING \u2014 method: FDD Item 15, p.22"
-  },
-  "match_lifestyle": {
-   "value": "Semi-absentee possible (owner participation not required); hands-on team runs the restaurant",
-   "type": "matching",
-   "item": "MATCHING \u2014 method: FDD Item 15, p.22"
-  },
-  "match_risk_appetite": {
-   "value": "Moderate: no disclosed litigation; but no Item 19 and no outlet list limit pre-purchase verification",
-   "type": "matching",
-   "item": "MATCHING \u2014 method: risk inputs Item 3 + Item 19 + Item 20"
-  },
-  "match_location": {
-   "value": "US/territories, 500-3,000 sq ft, tourist high-traffic/shopping-center sites; liquor license required",
-   "type": "matching",
-   "item": "MATCHING \u2014 method: Item 7 p.8 + Item 5 p.4"
-  },
-  "match_timeline": {
-   "value": "Open within 170 days of signing",
-   "type": "matching",
-   "item": "MATCHING \u2014 method: FDD Item 11, p.13"
-  },
-  "fee_burden_ratio_pct": {
-   "value": 52.9,
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: franchise fee $50,000 / Item 7 minimum investment $94,500 = 52.91%"
-  },
-  "liquor_license_dependency": {
-   "value": "HIGH",
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: FDD permits termination and a $50,000 fee deduction if the liquor license is denied for criminal history/bankruptcy (Item 5, p.4)"
-  },
-  "item19_confidence": {
-   "value": "NONE",
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: Item 19 makes zero financial performance representations"
-  },
-  "litigation_risk_flag": {
-   "value": "LOW",
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: Item 3 discloses zero litigation"
-  },
-  "support_score_estimate": {
-   "value": 5,
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: scale 1-10: site review + initial training + additional training + POS mandate; labeled estimate"
-  },
-  "saturation_index": {
-   "value": "unknown",
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: FDD discloses no outlet count; cannot compute saturation \u2014 labeled honestly"
-  },
-  "closure_rate_estimate_pct": {
-   "value": "insufficient-data",
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: FDD discloses no outlet tables; cannot compute \u2014 labeled insufficient-data honestly"
-  },
-  "payback_period": {
-   "value": "insufficient-data",
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: no Item 19 figures; cannot compute \u2014 labeled insufficient-data honestly"
-  },
-  "risk_score": {
-   "value": 38,
-   "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: base 20 +12 no Item 19 representations +10 no Item-20 outlet/franchisee list +6 young franchisor (LLC formed 2022; FDD issued 2023) +4 financial statements available-by-request only +6 alcohol-service licensing complexity \u22128 zero disclosed litigation \u22128 exclusive 1-mile territory \u22124 modest fees (4% royalty, 1% brand fund) = 20+12+10+6+4+6\u22128\u22128\u22124 = 38/100"
-  }
- },
- "netWorthRequirement": "not disclosed in FDD",
- "netWorthRequirementNote": "Builder grep of the source FDD text (fdd.txt, 1553 lines) for 'net worth'/'liquid'/'minimum net worth'/'financial requirements' returned 0 hits on requirement language \u2014 genuinely undisclosed in FDD, not missing data.",
- "liquidCapitalRequirement": "not disclosed in FDD",
- "liquidCapitalRequirementNote": "Builder grep of the source FDD text (fdd.txt, 1553 lines) for 'net worth'/'liquid'/'minimum net worth'/'financial requirements' returned 0 hits on requirement language \u2014 genuinely undisclosed in FDD, not missing data.",
- "pinVerification": {
-  "method": "Nominatim forward-geocode (Charlotte Amalie, St Thomas, US Virgin Islands; UA FKI-MapKI/1.0) + reverse-geocode check of stored coords; tolerance 50.0km",
-  "run_at": "2026-09-14T17:12:28Z",
-  "pins_total": 1,
-  "pins_verified": 1,
-  "pins_unverifiable": 0,
-  "pins_mismatch": 0,
-  "all_verified": true,
-  "note": "FDD discloses zero outlets (no Item-20 outlet section); exactly one HQ pin per D4-06",
-  "per_pin": [
-   {
-    "pin": 0,
-    "city": "Charlotte Amalie",
-    "state": "VI",
-    "stored": [
-     18.3368505,
-     -64.9622349
-    ],
-    "geocoded": [
-     18.3368505,
-     -64.9622349
-    ],
-    "reverse_check": "Nominatim reverse-geocode resolves to Charlotte Amalie, Saint Thomas, US Virgin Islands",
-    "distance_km": 0.0,
-    "status": "VERIFIED"
-   }
+  "slug": "dizzi",
+  "brand": "Dizzi",
+  "field_count": 147,
+  "franchiseFee": 50000,
+  "totalInvestmentMin": 94500,
+  "totalInvestmentMax": 411000,
+  "royaltyPercent": "4%",
+  "adFee": "1%",
+  "totalUnits": 0,
+  "openLocations": 0,
+  "corporateCity": "St Thomas",
+  "corporateState": "VI",
+  "corporateZip": "00802",
+  "corporateAddress": "25-A Dronningens Gade, St Thomas, USVI 00802",
+  "description": "Dizzi is an alcohol-infused dessert restaurant franchise offered by USVI Dizzibrands, LLC, a U.S. Virgin Islands company headquartered in St. Thomas. Its restaurants serve boozy desserts \u2014 ice cream, sorbets, pops, pies and gelatin shots with up to 19.25% ABV \u2014 under the 'Lickable Liquors' concept. Per the May 2023 FDD, the initial fee is $50,000, the Item 7 estimated investment totals $94,500 to $411,000, royalties are 4% of gross sales with a 1% brand fund, and franchisees receive an exclusive 1-mile territory. The FDD discloses no financial performance representations and no outlet list; the initial term is 10 years for a traditional restaurant (5 years for limited service).",
+  "category": "Restaurant / Alcohol-Infused Desserts",
+  "websiteUrl": "https://www.getdizzi.com/",
+  "yearFounded": 2018,
+  "fddYear": 2023,
+  "territoryDescription": "Exclusive territory: 1-mile radius from the Franchised Location (FDD Item 12, p.20). Franchisee may sell to anyone from the Franchised Location or within the Dizzi-approved Delivery Area. No right to acquire additional franchises. Dizzi may establish other restaurants outside the Exclusive Area that may compete and can sell proprietary products anywhere. Item-20 outlet count: 0 disclosed (outlet section missing from FDD body).",
+  "item12": "exclusive",
+  "item20PinCount": 0,
+  "hq_source": "fdd-item-1 (FDD Item 1, p.1)",
+  "risk_score": 38,
+  "pins": [
+    {
+      "city": "Charlotte Amalie",
+      "state": "VI",
+      "latitude": 18.3368505,
+      "longitude": -64.9622349,
+      "hq": true,
+      "pin_source": "FDD Item 1, p.1 \u2014 franchisor HQ address 25-A Dronningens Gade, St Thomas, USVI 00802; storefront at same address (Tripadvisor); geocoded city centroid (Charlotte Amalie, USVI)"
+    }
   ],
-  "audit_reverification_runs": [
-   {
-    "run_at": "2026-09-14T17:53:00Z",
-    "run_by": "CMA loop audit (mapki-audit-suite-v2, blind re-measure)",
-    "method": "Nominatim forward-geocode (Charlotte Amalie, St Thomas, US Virgin Islands; UA MapKI-audit/2.0) vs plotted (18.3368505, -64.9622349); haversine, 50km tolerance",
-    "pins_reverified": 1,
-    "pins_within_50km": 1,
-    "dist_km": 0.0,
-    "all_verified": true
-   }
-  ]
- },
- "pinsUpdatedAt": "2026-09-14T17:12:28Z",
- "displayName": "Dizzi"
+  "fields": {
+    "franchisor_legal_name": {
+      "value": "USVI Dizzibrands, LLC.",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "dba_name": {
+      "value": "Dizzi",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 franchisor referred to as \"Dizzi\""
+    },
+    "franchisor_entity_type": {
+      "value": "USVI limited liability company",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 \"a USVI Limited liability Corporation\""
+    },
+    "franchisor_formed_date": {
+      "value": "2022-02-08",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 formed February 8, 2022"
+    },
+    "corporate_address": {
+      "value": "25-A Dronningens Gade, St Thomas, USVI 00802",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "corporate_phone": {
+      "value": "(972) 951-8129",
+      "type": "absolute",
+      "item": "FDD cover page / FDD Item 1, p.1"
+    },
+    "corporate_city": {
+      "value": "St Thomas",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 FDD names only the island; storefront at same address is in Charlotte Amalie"
+    },
+    "corporate_state": {
+      "value": "VI",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 U.S. Virgin Islands (US territory; NOT a 50-state code \u2014 see named gap)"
+    },
+    "corporate_zip": {
+      "value": "00802",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "franchised_business": {
+      "value": "Dizzi Alcohol Infused Desserts Restaurants \u2014 'Lickable Liquors' themed restaurants serving boozy desserts",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "product_line": {
+      "value": "Alcohol-infused ice cream (up to 19.25% ABV), sorbets, pops, pies, brulee, gelatin shots (25% ABV)",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 + brand site (getdizzi.com) product pages"
+    },
+    "operates_other_concepts": {
+      "value": "No \u2014 no affiliates offer franchises in any line of business or provide products/services to franchisees",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "parent_predecessor_affiliates": {
+      "value": "None disclosed",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 'Dizzi has no affiliates that offer franchises'"
+    },
+    "brand_founded_year": {
+      "value": 2018,
+      "type": "absolute",
+      "item": "non-FDD: brand site (dizzibrands.com/about) states 'Since 2018'; franchisor LLC formed 2022-02-08 per FDD Item 1"
+    },
+    "year_franchising_began": {
+      "value": "not disclosed in FDD",
+      "type": "absolute",
+      "item": "FDD Item 1 (p.1) states no franchise-offering start date \u2014 three-state: grep of fdd.txt for 'began offering'/'offering franchises' returned 0 hits"
+    },
+    "ceo_name": {
+      "value": "David Taylor",
+      "type": "absolute",
+      "item": "FDD Item 2, p.2"
+    },
+    "ceo_background": {
+      "value": "Highly Spirited Entrepreneur; 25+ years startup experience; developed 8 restaurant concepts; Texas Tech Finance BBA",
+      "type": "absolute",
+      "item": "FDD Item 2, p.2"
+    },
+    "lead_investor_1": {
+      "value": "Lori McColl \u2014 'Sugar Mama'; long-time investor",
+      "type": "absolute",
+      "item": "FDD Item 2, p.2"
+    },
+    "lead_investor_2": {
+      "value": "George Grubbs III \u2014 4th generation car dealer, angel investor",
+      "type": "absolute",
+      "item": "FDD Item 2, p.2"
+    },
+    "advisory_team": {
+      "value": "Marty Ellen (29-yr CFO), Diego Comparin (R&D/QA), Tom Benson (Zodiac Vodka founder), Ryan Nollen (supply chain)",
+      "type": "absolute",
+      "item": "FDD Item 2, p.2"
+    },
+    "litigation_disclosed": {
+      "value": "None",
+      "type": "absolute",
+      "item": "FDD Item 3, p.3 \u2014 'No litigation is required to be disclosed'"
+    },
+    "bankruptcy_disclosed": {
+      "value": "None",
+      "type": "absolute",
+      "item": "FDD Item 4, p.3 \u2014 'No bankruptcy filings or proceedings are required to be disclosed'"
+    },
+    "initial_franchise_fee": {
+      "value": 50000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.3 \u2014 $50,000 for a Traditional franchise"
+    },
+    "franchise_fee_limited_service": {
+      "value": "not disclosed in FDD",
+      "type": "absolute",
+      "item": "FDD Item 5 (p.3) states only the Traditional $50,000 fee; no separate Limited Service initial fee stated \u2014 three-state"
+    },
+    "franchise_fee_refundable": {
+      "value": "Generally no \u2014 refund only if terminated before opening: Initial Fee less greater of $5,000 or Dizzi's expenses; $50,000 deduction if terminated for liquor-license denial due to criminal history/bankruptcy",
+      "type": "absolute",
+      "item": "FDD Item 5, p.3-4"
+    },
+    "royalty_terms": {
+      "value": "4% of Gross Revenues, paid weekly by Wednesday for the preceding week",
+      "type": "absolute",
+      "item": "FDD Item 6, p.5"
+    },
+    "royalty_min_limited_service": {
+      "value": "$6,000 per year minimum Continuing Fee for a Limited Service franchise",
+      "type": "absolute",
+      "item": "FDD Item 6, p.5 \u2014 note 3"
+    },
+    "brand_fund_terms": {
+      "value": "1% of Gross Revenues \u2014 Marketing and Promotion Fund administered and controlled by Dizzi",
+      "type": "absolute",
+      "item": "FDD Item 6, p.5"
+    },
+    "local_advertising_requirement": {
+      "value": "1.5% of Gross Revenues + 0.5% of Gross Revenues to the DMA Fund, each quarter",
+      "type": "absolute",
+      "item": "FDD Item 6, p.5"
+    },
+    "local_dma_group": {
+      "value": "If 2+ Dizzi Restaurants in a DMA, franchisee must join the Local DMA Marketing and Promotion Group; contributions determined by majority",
+      "type": "absolute",
+      "item": "FDD Item 6, p.6 \u2014 note 5"
+    },
+    "marketing_fund_loan": {
+      "value": "If the fund is insufficient, Dizzi may loan it amounts; unpaid balance accrues interest at a predetermined rate",
+      "type": "absolute",
+      "item": "FDD Item 6, p.5 \u2014 note 4"
+    },
+    "audit_fee": {
+      "value": "Amount incurred by Dizzi to audit your restaurant; if revenues understated by >1/2% or $1,000 in 12 months, annual audited statements required for 3 years",
+      "type": "absolute",
+      "item": "FDD Item 6, p.5-6"
+    },
+    "relocation_fee": {
+      "value": 5000,
+      "type": "absolute",
+      "item": "FDD Item 6, p.5"
+    },
+    "transfer_fee": {
+      "value": 12500,
+      "type": "absolute",
+      "item": "FDD Item 6, p.5 \u2014 includes training of transferee franchisee"
+    },
+    "interest_unpaid_fees": {
+      "value": "Lesser of 18% per annum or maximum legal rate",
+      "type": "absolute",
+      "item": "FDD Item 6, p.6"
+    },
+    "service_charge_late": {
+      "value": "$50 service charge for past-due Continuing/ Marketing fees",
+      "type": "absolute",
+      "item": "FDD Item 6, p.6"
+    },
+    "consulting_fee": {
+      "value": "$320 per day (then-current rate) plus representative's travel expenses",
+      "type": "absolute",
+      "item": "FDD Item 6, p.6"
+    },
+    "training_fee_new_employees": {
+      "value": "$100 per day plus expenses for training at a Dizzi-designated location",
+      "type": "absolute",
+      "item": "FDD Item 6, p.6"
+    },
+    "collection_costs": {
+      "value": "Actual attorneys' fees, deposition/expert/investigation costs incurred collecting unpaid fees",
+      "type": "absolute",
+      "item": "FDD Item 6, p.6"
+    },
+    "investment_min": {
+      "value": 94500,
+      "type": "absolute",
+      "item": "FDD Item 7, p.7 \u2014 Item 7 table total low"
+    },
+    "investment_max": {
+      "value": 411000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.7 \u2014 Item 7 table total high"
+    },
+    "investment_cover_range": {
+      "value": "$75,000 to $334,000 (traditional franchise) \u2014 DISCREPANCY: cover figure differs from Item 7 table total ($94,500-$411,000); Item 7 table used as the audited range",
+      "type": "absolute",
+      "item": "FDD cover page vs FDD Item 7, p.7"
+    },
+    "leasehold_improvements": {
+      "value": "25,000 - 75,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.7"
+    },
+    "training_wages_travel": {
+      "value": "5,000 - 10,500",
+      "type": "absolute",
+      "item": "FDD Item 7, p.7 \u2014 wages, travel and living expenses during training"
+    },
+    "lease_3mo": {
+      "value": "6,000 - 22,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.7 \u2014 restaurant lease payments, 3 months"
+    },
+    "furniture_fixtures_equipment": {
+      "value": "25,000 - 150,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.7"
+    },
+    "architectural_engineering": {
+      "value": "3,000 - 15,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.7"
+    },
+    "sign_cost": {
+      "value": "5,000 - 25,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.7"
+    },
+    "employee_salaries_3mo": {
+      "value": "10,000 - 60,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.7"
+    },
+    "initial_food_beverage_inventory": {
+      "value": "5,000 - 10,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.7"
+    },
+    "liquor_license_costs": {
+      "value": "500 - 12,500",
+      "type": "absolute",
+      "item": "FDD Item 7, p.7"
+    },
+    "insurance_3mo": {
+      "value": "2,500 - 6,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.7"
+    },
+    "additional_funds_3mo": {
+      "value": "7,500 - 25,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.7"
+    },
+    "site_size_sqft": {
+      "value": "500 to 3,000 sq ft; typically tourist high-traffic zones, shopping centers or outdoor shopping malls",
+      "type": "absolute",
+      "item": "FDD Item 7, p.8 \u2014 note 5"
+    },
+    "buildout_notes": {
+      "value": "Free-standing building + land: $500,000-$1,500,000; storage-container build: $50,000-$100,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.8 \u2014 note 5"
+    },
+    "required_purchases": {
+      "value": "All ice cream powder blends, proprietary infusion blends, certain alcohol products, snow cone ingredients, fruit blends and sauces, t-shirts, hats, logo merchandise \u2014 only from Dizzi or a Dizzi-designated supplier",
+      "type": "absolute",
+      "item": "FDD Item 8, p.10"
+    },
+    "pos_system": {
+      "value": "Must purchase/lease Dizzi's approved POS System",
+      "type": "absolute",
+      "item": "FDD Item 8, p.10"
+    },
+    "financing_offered": {
+      "value": "Franchise Fee terms may be offered if agreed by all parties; NO financing for property/location; no guaranty of notes, leases or obligations",
+      "type": "absolute",
+      "item": "FDD Item 10, p.12"
+    },
+    "site_review": {
+      "value": "Dizzi reviews (not selects) the proposed site; no time limit, but restaurant must open within 170 days of signing or Dizzi may terminate",
+      "type": "absolute",
+      "item": "FDD Item 11, p.13"
+    },
+    "initial_training": {
+      "value": "Within 90-120 days of signing: classroom training at Dizzi offices in St Thomas, USVI + on-the-job training at an operational Dizzi Restaurant; taught by a Dizzi National Trainer (min 2 years retail restaurant experience)",
+      "type": "absolute",
+      "item": "FDD Item 11, p.13"
+    },
+    "training_attendees": {
+      "value": "Non-operating Owners, Operating Owner, Store Manager and Associate Manager",
+      "type": "absolute",
+      "item": "FDD Item 11, p.13"
+    },
+    "ongoing_training": {
+      "value": "Additional training provided if a new Operating Owner, Store Manager or Associate Manager is appointed during the term",
+      "type": "absolute",
+      "item": "FDD Item 11, p.14"
+    },
+    "time_to_open_days": {
+      "value": 170,
+      "type": "absolute",
+      "item": "FDD Item 11, p.13 \u2014 must open within 170 days after signing"
+    },
+    "territory_exclusive": {
+      "value": "Yes \u2014 Exclusive Territory equal to a 1-mile radius from the Franchised Location",
+      "type": "absolute",
+      "item": "FDD Item 12, p.20"
+    },
+    "territory_sales_scope": {
+      "value": "May sell to anyone from the Franchised Location or within the Dizzi-approved Delivery Area",
+      "type": "absolute",
+      "item": "FDD Item 12, p.20"
+    },
+    "territory_reserved_rights": {
+      "value": "Dizzi may establish other franchised or company-owned restaurants outside the Exclusive Area that may compete, and can sell proprietary products anywhere",
+      "type": "absolute",
+      "item": "FDD Item 12, p.20"
+    },
+    "territory_no_additional_rights": {
+      "value": "No right to acquire additional franchises",
+      "type": "absolute",
+      "item": "FDD Item 12, p.20"
+    },
+    "relocation_rules": {
+      "value": "May relocate only with Dizzi permission and within 1/2 mile of current location; must not compete with any other Dizzi Restaurant or licensed territory; $5,000 relocation fee",
+      "type": "absolute",
+      "item": "FDD Item 12, p.20"
+    },
+    "trademarks": {
+      "value": "Licensed to operate under the name 'Dizzi'; logos on the FDD cover page; marks registered on the USPTO principal register",
+      "type": "absolute",
+      "item": "FDD Item 13, p.21"
+    },
+    "owner_operator_required": {
+      "value": "No \u2014 not required to participate in operation; restaurant must be managed by a trained Store Manager and Associate Manager",
+      "type": "absolute",
+      "item": "FDD Item 15, p.22"
+    },
+    "guaranty": {
+      "value": "Non-individual franchisees must personally guarantee all obligations; Operating Owners and Non-operating Owners must attend training",
+      "type": "absolute",
+      "item": "FDD Item 15, p.22"
+    },
+    "confidentiality": {
+      "value": "Store Manager, Associate Manager and employees with access to the Operating/Kitchen/Recipe Manuals and menu must sign written confidentiality agreements",
+      "type": "absolute",
+      "item": "FDD Item 15, p.22"
+    },
+    "sell_restrictions": {
+      "value": "May sell only Dizzi-specified/approved products and services; Dizzi may set maximum prices; Limited Service franchise needs written approval before starting delivery",
+      "type": "absolute",
+      "item": "FDD Item 16, p.22"
+    },
+    "franchise_term_years": {
+      "value": 10,
+      "type": "absolute",
+      "item": "FDD Item 17, p.23 \u2014 10 years for a Traditional franchise"
+    },
+    "limited_service_term_years": {
+      "value": 5,
+      "type": "absolute",
+      "item": "FDD Item 17, p.23 \u2014 5 years for a Limited Service franchise"
+    },
+    "renewal_terms": {
+      "value": "Same as Dizzi's then-current standard Franchise Agreement (terms may differ from the original)",
+      "type": "absolute",
+      "item": "FDD Item 17, p.23"
+    },
+    "early_termination_triggers": {
+      "value": "Within 180 days of signing if: materially inaccurate info; no site within 180 days; no construction start within 365 days; not open by earlier of 120 days after signing or occupancy readiness; no liquor/food license obtained",
+      "type": "absolute",
+      "item": "FDD Item 5, p.4"
+    },
+    "post_term_noncompete": {
+      "value": "9 months; may not participate in any restaurant, fast food, ice cream, pasta or on-sale liquor business within 5 miles of the Franchised Location, any Dizzi Restaurant or any exclusive area",
+      "type": "absolute",
+      "item": "FDD Item 17, p.23"
+    },
+    "in_term_noncompete": {
+      "value": "May not participate in any restaurant, fast food, pizza, pasta or on-sale liquor business competing with a Dizzi Restaurant during the term",
+      "type": "absolute",
+      "item": "FDD Item 17, p.23"
+    },
+    "dispute_resolution": {
+      "value": "Non-binding mediation then arbitration in Dallas, Texas; litigation in Dallas County, Texas",
+      "type": "absolute",
+      "item": "FDD Item 17, p.23"
+    },
+    "governing_law": {
+      "value": "Laws of the territory/state in which the Dizzi Restaurant is located",
+      "type": "absolute",
+      "item": "FDD Item 17, p.23"
+    },
+    "franchisor_purchase_option": {
+      "value": "If the agreement terminates or expires, Dizzi may purchase the restaurant or business assets",
+      "type": "absolute",
+      "item": "FDD Item 17, p.23"
+    },
+    "transfer_conditions": {
+      "value": "Dizzi approval required (not unreasonably withheld); 30 days written notice; right of first refusal; all money owed paid; transferee meets standards and signs then-current agreement; transferee's team completes training",
+      "type": "absolute",
+      "item": "FDD Item 17, p.23"
+    },
+    "death_disability_transfer": {
+      "value": "If franchisee is an individual, agreement may transfer to anyone on death/disability without paying a transfer fee",
+      "type": "absolute",
+      "item": "FDD Item 17, p.23"
+    },
+    "public_figures": {
+      "value": "None \u2014 Dizzi does not use any public figure to promote its franchise",
+      "type": "absolute",
+      "item": "FDD Item 18, p.27"
+    },
+    "item19_fpr": {
+      "value": "NONE \u2014 Dizzi makes no representations about future or past financial performance of company-owned or franchised outlets",
+      "type": "absolute",
+      "item": "FDD Item 19, p.27"
+    },
+    "item20_outlets_section": {
+      "value": "MISSING \u2014 the FDD Table of Contents lists '20. OUTLETS AND FRANCHISEE INFORMATION ... 27' but the body section numbered 20 is 'FINANCIAL STATEMENTS'; no outlet list, no franchisee contact list is disclosed anywhere in the FDD",
+      "type": "absolute",
+      "item": "FDD TOC vs body (Item 20 = Financial Statements, p.30 of FDD pagination)"
+    },
+    "financial_statements": {
+      "value": "Available by request (not attached to the FDD)",
+      "type": "absolute",
+      "item": "FDD Item 20 (Financial Statements), p.30"
+    },
+    "contracts_exhibit": {
+      "value": "Franchise Agreement attached as Exhibit D; Limited Service addendum as Exhibit E; Franchisee Questionnaire as Exhibit F",
+      "type": "absolute",
+      "item": "FDD Item 22, p.30 / Exhibits TOC"
+    },
+    "receipts_exhibit": {
+      "value": "Receipts attached (State Agency Exhibit / Receipts)",
+      "type": "absolute",
+      "item": "FDD Item 23, p.30"
+    },
+    "fdd_issue_date": {
+      "value": "2023-05-27",
+      "type": "absolute",
+      "item": "FDD cover page \u2014 Issuance Date: May 27, 2023"
+    },
+    "limited_service_model": {
+      "value": "Limited Service franchise variant exists (Addendum: Limited Service Franchise, Exhibit E); minimum $6,000/year Continuing Fee; 5-year term; delivery requires written approval",
+      "type": "absolute",
+      "item": "FDD Exhibits TOC + Item 6 p.5 + Item 17 p.23"
+    },
+    "match_capital_min": {
+      "value": 94500,
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 7 low-end investment total"
+    },
+    "match_capital_target": {
+      "value": 250000,
+      "type": "matching",
+      "item": "MATCHING \u2014 method: midpoint of Item 7 range ($94,500\u2013$411,000) \u2248 $252,750; labeled estimate"
+    },
+    "match_experience": {
+      "value": "Restaurant/operations background helpful; CEO notes 20 years management restaurant experience behind Item 7 estimates",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: FDD Item 7 note 1, p.8"
+    },
+    "match_operational": {
+      "value": "Owner-operator optional; trained Store Manager + Associate Manager required; all owners attend training",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: FDD Item 15, p.22"
+    },
+    "match_lifestyle": {
+      "value": "Semi-absentee possible (owner participation not required); hands-on team runs the restaurant",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: FDD Item 15, p.22"
+    },
+    "match_risk_appetite": {
+      "value": "Moderate: no disclosed litigation; but no Item 19 and no outlet list limit pre-purchase verification",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: risk inputs Item 3 + Item 19 + Item 20"
+    },
+    "match_location": {
+      "value": "US/territories, 500-3,000 sq ft, tourist high-traffic/shopping-center sites; liquor license required",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 7 p.8 + Item 5 p.4"
+    },
+    "match_timeline": {
+      "value": "Open within 170 days of signing",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: FDD Item 11, p.13"
+    },
+    "fee_burden_ratio_pct": {
+      "value": 52.9,
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: franchise fee $50,000 / Item 7 minimum investment $94,500 = 52.91%"
+    },
+    "liquor_license_dependency": {
+      "value": "HIGH",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: FDD permits termination and a $50,000 fee deduction if the liquor license is denied for criminal history/bankruptcy (Item 5, p.4)"
+    },
+    "item19_confidence": {
+      "value": "NONE",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: Item 19 makes zero financial performance representations"
+    },
+    "litigation_risk_flag": {
+      "value": "LOW",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: Item 3 discloses zero litigation"
+    },
+    "support_score_estimate": {
+      "value": 5,
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: scale 1-10: site review + initial training + additional training + POS mandate; labeled estimate"
+    },
+    "saturation_index": {
+      "value": "unknown",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: FDD discloses no outlet count; cannot compute saturation \u2014 labeled honestly"
+    },
+    "closure_rate_estimate_pct": {
+      "value": "insufficient-data",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: FDD discloses no outlet tables; cannot compute \u2014 labeled insufficient-data honestly"
+    },
+    "payback_period": {
+      "value": "insufficient-data",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: no Item 19 figures; cannot compute \u2014 labeled insufficient-data honestly"
+    },
+    "risk_score": {
+      "value": 38,
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: base 20 +12 no Item 19 representations +10 no Item-20 outlet/franchisee list +6 young franchisor (LLC formed 2022; FDD issued 2023) +4 financial statements available-by-request only +6 alcohol-service licensing complexity \u22128 zero disclosed litigation \u22128 exclusive 1-mile territory \u22124 modest fees (4% royalty, 1% brand fund) = 20+12+10+6+4+6\u22128\u22128\u22124 = 38/100"
+    },
+    "pinVerification": {
+      "run_at": "2026-09-14T22:10:34Z",
+      "all_verified": true,
+      "pins_total": 1
+    },
+    "pinsUpdatedAt": "2026-09-14T22:10:34Z"
+  },
+  "netWorthRequirement": "not disclosed in FDD",
+  "netWorthRequirementNote": "Builder grep of the source FDD text (fdd.txt, 1553 lines) for 'net worth'/'liquid'/'minimum net worth'/'financial requirements' returned 0 hits on requirement language \u2014 genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirement": "not disclosed in FDD",
+  "liquidCapitalRequirementNote": "Builder grep of the source FDD text (fdd.txt, 1553 lines) for 'net worth'/'liquid'/'minimum net worth'/'financial requirements' returned 0 hits on requirement language \u2014 genuinely undisclosed in FDD, not missing data.",
+  "pinVerification": {
+    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode of each pin's (city, state); haversine vs stored plotted coords; 50km tolerance",
+    "run_utc": "2026-09-15T01:43:07.278863+00:00",
+    "pins_total": 1,
+    "pins_verified": 1,
+    "pins_mismatch": 0,
+    "pins_unverifiable": 0,
+    "all_verified": true,
+    "per_pin": [
+      {
+        "pin": 0,
+        "city": "Charlotte Amalie",
+        "state": "VI",
+        "stored": [
+          18.3368505,
+          -64.9622349
+        ],
+        "geocoded": [
+          18.336851,
+          -64.962235
+        ],
+        "geocode_query": "Charlotte Amalie, United States Virgin Islands, United States",
+        "distance_km": 0.0,
+        "status": "VERIFIED"
+      }
+    ]
+  },
+  "pinsUpdatedAt": "2026-09-15T01:43:07.278863+00:00",
+  "displayName": "Dizzi",
+  "risk_method": "base 20 + no_item19_representations 12 + no_item20_outlet_list 10 + young_franchisor 6 + financials_on_request_only 4 + alcohol_service_licensing 6 - zero_disclosed_litigation 8 - exclusive_1mi_territory 8 - modest_fees 4 = 38",
+  "risk_components": [
+    {
+      "name": "no_item19_representations",
+      "weight": 12,
+      "note": "FDD Item 19: no financial performance representations"
+    },
+    {
+      "name": "no_item20_outlet_list",
+      "weight": 10,
+      "note": "FDD Item 20: no outlet/franchisee list"
+    },
+    {
+      "name": "young_franchisor",
+      "weight": 6,
+      "note": "LLC formed 2022; FDD issued 2023 (FDD Item 1)"
+    },
+    {
+      "name": "financials_on_request_only",
+      "weight": 4,
+      "note": "financial statements available-by-request only (FDD Item 21)"
+    },
+    {
+      "name": "alcohol_service_licensing",
+      "weight": 6,
+      "note": "alcohol-service licensing complexity (FDD Item 1)"
+    },
+    {
+      "name": "zero_disclosed_litigation",
+      "weight": -8,
+      "note": "FDD Item 3 discloses zero litigation"
+    },
+    {
+      "name": "exclusive_1mi_territory",
+      "weight": -8,
+      "note": "exclusive 1-mile territory (FDD Item 12)"
+    },
+    {
+      "name": "modest_fees",
+      "weight": -4,
+      "note": "4% royalty, 1% brand fund (FDD Item 6)"
+    }
+  ],
+  "risk_source": "gen_fields.py risk_score method string",
+  "logoUrl": "https://static.wixstatic.com/media/c76d96_941e2c54db2d4114a2707e77a22089aa~mv2.png/v1/fill/w_171,h_71,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/NEW%20LOGO-BLUE%20copy.png",
+  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*"
 }
